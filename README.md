@@ -1,16 +1,14 @@
-# MobileCalc
+# Welcome to Mobile Calculator tasks for Mobile Applications
+## Made by Mark K.
 
-A new Mobile Calculator in Flutter project
+A new Mobile Calculator in Flutter project<br>
+Each branch contains completed Task
 
-## Getting Started
+## Navigation:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Task 2 (done) - [Basic calculator UI](https://github.com/mdkostom/MobileCalc/tree/Task-2-Basic-calculator-UI)
+- Task 3 (done) - [Basic calculator logic](https://github.com/mdkostom/MobileCalc/tree/Task-3-Basic-calculator-logic)
+- Task 4 (done) - [Kilometer to Mile converter in your calculator](https://github.com/mdkostom/MobileCalc/tree/Task-4-Kilometer-to-Mile-converter-in-your-calculator)
+- Task 5 (X) - Add history and persistence to your app
+- Task 6 (X) - Add equation support for your calculator
+- Task 7 (X) - Add Firestore support to your app
