@@ -1,16 +1,10 @@
-# mobilecalc
+# Task 4 - Kilometer to Mile converter in your calculator
 
-A new Mobile Calculator in Flutter project
+## Requirement:<br>
+Please add on a separate screen a kilometer to mile converter. The main calculator screen should have an element that would allow to navigate to that screen (and back) 
 
-## Getting Started
+## Results
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Created 1 other dart file in [lib:](https://github.com/mdkostom/MobileCalc/tree/Task-4-Kilometer-to-Mile-converter-in-your-calculator/lib)
+- [converter_screen.dart](https://github.com/mdkostom/MobileCalc/blob/Task-4-Kilometer-to-Mile-converter-in-your-calculator/lib/converter_screen.dart) - Makes it possible to turn desired amount of kilometers into meters and vice versa
+- [calculator_app.dart](https://github.com/mdkostom/MobileCalc/blob/Task-4-Kilometer-to-Mile-converter-in-your-calculator/lib/calculator_app.dart) - Added a button to move onto the separate screen of kilometer and mile converter
