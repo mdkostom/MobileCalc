@@ -1,16 +1,13 @@
-# mobilecalc
+# Task 3 - Basic calculator logic
 
-A new Mobile Calculator in Flutter project
+## Requirement:<br>
+Please write the logic to the calculator that will support basic operations (+-*/) with 2 real numbers.<br>
+Please be mindful of the MVC pattern and don't write logic into the UI classes.
 
-## Getting Started
+## Results
 
-This project is a starting point for a Flutter application.
+Created 1 other dart file in [lib:](https://github.com/mdkostom/MobileCalc/tree/Task-3-Basic-calculator-logic/lib)
+- [calculator_controller.dart](https://github.com/mdkostom/MobileCalc/blob/Task-3-Basic-calculator-logic/lib/calculator_controller.dart) - Applies logic, making it possible to enter numbers, add, substract, divide and multiply as well including decimals
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Added Dependencies for [pubspec.yaml:](https://github.com/mdkostom/MobileCalc/blob/Task-3-Basic-calculator-logic/pubspec.yaml)
+- rxdart - "rxdart: 0.27.1"
