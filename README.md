@@ -1,4 +1,4 @@
-# MobileCalc
+# Mobile Calculator
 
 A new Mobile Calculator in Flutter project
 
