@@ -1,13 +1,16 @@
-# Task 2 - Basic calculator UI
+# mobilecalc
 
-## Requirement:<br>
-Please train your UI skills by developing a simple calculator UI. No need for logic right now, that's for a next assignment. You know how a calculator app should look like, so just give it a try ;)
+A new Mobile Calculator in Flutter project
 
-## Results
+## Getting Started
 
-Created 3 dart files in [lib:](https://github.com/mdkostom/MobileCalc/tree/Task-2-Basic-calculator-UI/lib)
-- [main.dart](https://github.com/mdkostom/MobileCalc/blob/Task-2-Basic-calculator-UI/lib/main.dart) - Responsible for starting the app
-- [calculator_app.dart](https://github.com/mdkostom/MobileCalc/blob/Task-2-Basic-calculator-UI/lib/calculator_app.dart) - Defines the MyApp class
-- [calculator_screen.dart](https://github.com/mdkostom/MobileCalc/blob/Task-2-Basic-calculator-UI/lib/calculator_screen.dart) - Contains the Calculator widget
+This project is a starting point for a Flutter application.
 
-Clean cyan color UI with ElevatedButton's to make it easier to see where to press. No logic yet.
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
