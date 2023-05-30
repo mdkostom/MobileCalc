@@ -5,6 +5,7 @@ import 'calculator_controller.dart';
 class CalculatorScreen extends StatelessWidget {
   final CalculatorController _controller = CalculatorController();
 
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
