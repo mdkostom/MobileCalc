@@ -1,4 +1,4 @@
-# Task 4 - Add history and persistence to your app
+# Task 5 - Add history and persistence to your app
 
 ## Requirement:<br>
 Your calculator could remember previous activities. Please create a separate screen "History" where the app records the previous calculations. A history line should include the calculation e.g "4 * 5 = 20" and the time of the calculation e.g. "2022-10-22 15:30".
